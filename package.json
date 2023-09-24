@@ -1,0 +1,26 @@
+{
+  "name": "pg-sharded",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sqlite3": "^3.1.8",
+    "imurmurhash": "^0.1.4",
+    "pg-promise": "^11.5.4",
+    "sqlite": "^5.0.1",
+    "sqlite3": "^5.1.6",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/imurmurhash": "^0.1.1",
+    "@types/node": "^20.6.4"
+  }
+}
